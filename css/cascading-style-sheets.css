@@ -53,6 +53,7 @@ button{
 
 
 
+
 .box{
     width: 100%;
     height: 100vh;
@@ -85,5 +86,5 @@ button{
 
 #special{
     color: green;
-    top: 50%;
+    top: 48%;
 }
