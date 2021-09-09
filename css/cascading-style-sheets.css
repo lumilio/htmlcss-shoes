@@ -9,3 +9,22 @@
     clear: both;
     display: table;
 }
+
+.box{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-size: cover;
+}
+
+#box1{
+    background-color: red;
+}
+
+#box2{
+    background-color: green;
+}
+
+#box3{
+    background-color: yellow;
+}
