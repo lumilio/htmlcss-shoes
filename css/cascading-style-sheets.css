@@ -20,16 +20,31 @@ header{
     left:0;
     width:100%;
     z-index: 1;
+    padding-right: 20px;
+    padding-top: 5px;
 }
 
-nav li{
+
+
+nav li { 
     line-height: 80px;
     display: inline-block;
     list-style: none;
     margin: 0 10px;
-    background-color: white;
+    padding: 5px;
 }
 
+a{
+    text-decoration: none;
+}
+
+button{
+    padding: 10px;
+    border-radius: 50%;
+    border:none;
+    height: 40px;
+    width: 40px;
+}
 
 
 
