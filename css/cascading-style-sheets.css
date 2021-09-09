@@ -15,6 +15,7 @@
     height: 100vh;
     position: relative;
     background-size: cover;
+    font-family: 'Rubik Mono One', sans-serif;;
 }
 
 #box1{
@@ -27,4 +28,20 @@
 
 #box3{
     background-color: yellow;
+}
+
+
+.layer {
+    top: 40%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    position: absolute;
+    text-align: center;
+    font-size: 24px;
+    color: yellow;
+}
+
+#special{
+    color: green;
+    top: 50%;
 }
